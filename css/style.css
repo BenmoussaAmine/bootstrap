@@ -1,0 +1,61 @@
+#Amine{
+	 text-align: center;
+	 background-color : tomato;
+     border : 1px solid black;
+}
+
+.img{
+	margin-left: 650px;
+	margin-top: 20px;
+}
+
+#para{
+	color: blue;
+}
+
+.i:hover{
+	color:red;
+}
+.i{
+	margin-left: 20px;
+}
+
+#those{
+	color: red;
+}
+
+/* On travaille sur la balise body, donc sur TOUTE la page */
+body
+{
+    background-color: black; /* Le fond de la page sera noir */
+    color: white; /* Le texte de la page sera blanc */
+}
+
+p{
+	text-align: center;
+}
+
+body{
+	padding-bottom: 200px;
+}
+
+.col-md-4 p{
+	text-align: justify;
+}
+
+.col-md-4 i{
+	padding: 50px;
+}
+
+col-md-4 {
+	margin-top: 50px;
+	text-align: center;
+}
+
+#join{
+	margin-left: 400px;
+}
+
+button{
+	text-align: center;
+}
